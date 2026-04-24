@@ -3,8 +3,6 @@
 Application of the [PmodAMP2 (Revision A)](https://digilent.com/reference/pmod/pmodamp2/start?srsltid=AfmBOoq1yfyfdMDJaJH-_hVFo4jeQtLhvuQtrTVjmt5AkIL845PVjiOV) attachment on a [Basys 3 Artix-7 FPGA Board](https://digilent.com/shop/basys-3-amd-artix-7-fpga-trainer-board-recommended-for-introductory-users/). </br>
 5 unique sound effects can be played from the amplifier when their respective buttons are pressed.
 
-This may be of particular use to those taking UCLA's COM SCI M152A (Introductory Digital Design Laboratory), or any similar class, as a potential starting point on how to use this attachment in their final project. 
-
 ## FPGA Hardware & Software Requirements
 As mentioned earlier, the hardware I used for this design is the Basys 3 FPGA along with the PmodAMP2 amplifier attachment. </br>
 You will also need a standard 1/8 inch headphone jack and some kind of speaker to actually be able to hear the sounds when they play. </br>
